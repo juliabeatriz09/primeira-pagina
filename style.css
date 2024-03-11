@@ -12,25 +12,31 @@ footer{
     background-color:azure;
 
 }
-.brabuleta{ 
+.logo{ 
     width: 300px;
 }
-h3{background-color: white;
+h3{
+    background-color: white;
 
 }
-H1{font-family: 'Courier New', Courier, monospace;
+H1{
+    font-family: 'Courier New', Courier, monospace;
 
 }
-.girassol{border-radius: 3px;
-     border: black
+.pintura1{
+     border-radius: 3px;
+     border: pink;
 
 }
-.quadrinhos{border-radius: 3px;
-    border: black;
+.pintura2{
+    border-radius: 3px;
+    border:pink;
 
 }
-.paisagem{border-radius: 3px;
-    border: black;
+.pintura3{
+    border-radius: 3px;
+    border:pink;
 
 }
+
 
